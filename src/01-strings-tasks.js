@@ -313,4 +313,4 @@ module.exports = {
   getRectangleString,
   encodeToRot13,
   isString,
-  getCar123456
+  getCar123
